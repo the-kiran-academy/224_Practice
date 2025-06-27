@@ -3,8 +3,7 @@ package com;
 public class Operation {
 
 	public static int add(int a, int b) {
-		int c=a+b;
-		return c;
+		return a+b;
 
 	}
 
